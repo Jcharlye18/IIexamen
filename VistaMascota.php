@@ -38,7 +38,7 @@
 </nav>
     <div class="container-fluid bg-primary text-white text-center">
         <p>
-            <h2>INGRESO DE MASCOTAS</h2>
+            <h2>INGRESO DE MASCOTA</h2>
         </p>
     </div>
     <div class="container">
