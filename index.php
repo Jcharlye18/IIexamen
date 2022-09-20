@@ -24,7 +24,7 @@
           <a class="nav-link active" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="VistaEstudiante.php">Agregar mascota</a>
+          <a class="nav-link" href="VistaMascota.php">Agregar mascota</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="ListarMascota.php">Listar mascota</a>
